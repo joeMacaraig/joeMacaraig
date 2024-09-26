@@ -1,6 +1,6 @@
 ## Hello, I'm Joseph Bryan 👋🏽
 
-I'm a computer science graduate from CSUSB. I am passionate about technology from hardware to the digital space of full stack web developement.
+I graduated California State University, San Bernardino with a bachelor's degree in computer science. I am passionate about technology from hardware to the digital space of full stack web developement.
 
 ## 📚 Learning: 
 * IBM Full Stack Development Professional Certificate
